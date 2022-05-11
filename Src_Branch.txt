@@ -1,0 +1,1 @@
+https://www.larashout.com/laravel-8-error-logging-using-sentry
